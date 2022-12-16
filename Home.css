@@ -1,0 +1,194 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 772px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 55px auto 55px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 713px;
+  background-image: url("images/begai.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 58px;
+  padding-right: 58px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Allura;
+  font-size: 8rem;
+  margin: 385px 55px 0 21px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 393px;
+  background-image: url("images/h15.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/g1.webp");
+  min-height: 320px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("images/g2.jpg");
+  min-height: 320px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 756px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 55px;
+    padding-right: 73px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 901px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 162px;
+    padding-right: 162px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 676px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 116px;
+    padding-right: 116px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 426px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 34px;
+    padding-right: 34px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 772px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 55px 0 55px auto;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/t1.webp");
+  min-height: 471px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/t2.png");
+  min-height: 243px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: url("images/t3.jpg");
+  min-height: 243px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-4 {
+  background-image: url("images/betrai.jpg");
+  min-height: 714px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Allura;
+  font-size: 8rem;
+  margin: 483px 0 0 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 6rem;
+    margin-top: 275px;
+    margin-left: 0;
+    margin-bottom: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 8rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 4.5rem;
+    margin-top: 289px;
+  }
+}
